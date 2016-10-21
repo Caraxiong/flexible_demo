@@ -1,0 +1,23 @@
+{
+  "name": "flexible_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caraxiong/flexible_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caraxiong/flexible_demo/issues"
+  },
+  "homepage": "https://github.com/Caraxiong/flexible_demo#readme",
+  "dependencies": {
+    "flexible": "^0.1.20"
+  }
+}
